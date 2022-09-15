@@ -5,3 +5,5 @@ This repository is for the general education course "Understanding the Moon" off
 ## Useful links ##
 
 - Course web page: https://s3b.astro.ncu.edu.tw/moon_202209/
+- GitHub repository: https://github.com/kinoshitadaisuke/ncu_moon_202209/
+- Binder web page: https://mybinder.org/v2/gh/kinoshitadaisuke/ncu_moon_202209/HEAD
