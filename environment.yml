@@ -2,3 +2,4 @@ dependencies:
   - astropy
   - jplephem
   - matplotlib
+  - ffmpeg
