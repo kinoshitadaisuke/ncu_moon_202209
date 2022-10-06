@@ -1,6 +1,8 @@
 dependencies:
-  - python>=3.9
   - astropy
+  - ffmpeg
+  - imagemagick
   - jplephem
   - matplotlib
-  - ffmpeg
+  - perl
+  - python=3.9
